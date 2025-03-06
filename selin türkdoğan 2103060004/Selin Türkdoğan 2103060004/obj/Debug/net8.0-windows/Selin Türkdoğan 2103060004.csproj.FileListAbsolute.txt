@@ -1,0 +1,17 @@
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\bin\Debug\net8.0-windows\Selin Türkdoğan 2103060004.exe
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\bin\Debug\net8.0-windows\Selin Türkdoğan 2103060004.deps.json
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\bin\Debug\net8.0-windows\Selin Türkdoğan 2103060004.runtimeconfig.json
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\bin\Debug\net8.0-windows\Selin Türkdoğan 2103060004.dll
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\bin\Debug\net8.0-windows\Selin Türkdoğan 2103060004.pdb
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\obj\Debug\net8.0-windows\Selin_Türkdoğan_2103060004.Form1.resources
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\obj\Debug\net8.0-windows\Selin_Türkdoğan_2103060004.Properties.Resources.resources
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\obj\Debug\net8.0-windows\Selin Türkdoğan 2103060004.csproj.GenerateResource.cache
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\obj\Debug\net8.0-windows\Selin Türkdoğan 2103060004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\obj\Debug\net8.0-windows\Selin Türkdoğan 2103060004.AssemblyInfoInputs.cache
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\obj\Debug\net8.0-windows\Selin Türkdoğan 2103060004.AssemblyInfo.cs
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\obj\Debug\net8.0-windows\Selin Türkdoğan 2103060004.csproj.CoreCompileInputs.cache
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\obj\Debug\net8.0-windows\Selin Türkdoğan 2103060004.dll
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\obj\Debug\net8.0-windows\refint\Selin Türkdoğan 2103060004.dll
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\obj\Debug\net8.0-windows\Selin Türkdoğan 2103060004.pdb
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\obj\Debug\net8.0-windows\Selin Türkdoğan 2103060004.genruntimeconfig.cache
+C:\Users\turkd\Desktop\Yeni klasör (2)\Selin Türkdoğan 2103060004\Selin Türkdoğan 2103060004\obj\Debug\net8.0-windows\ref\Selin Türkdoğan 2103060004.dll

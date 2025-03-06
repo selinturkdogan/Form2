@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Selin Türkdoğan 2103060004/1.0.0": {
+        "runtime": {
+          "Selin Türkdoğan 2103060004.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Selin Türkdoğan 2103060004/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
